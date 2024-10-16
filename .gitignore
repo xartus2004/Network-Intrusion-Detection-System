@@ -6,7 +6,7 @@ __pycache__/
 data/*.csv
 
 # Encoders and models
-encoders/
+encoders/*.joblib
 models/*.pkl
 
 # CatBoost training files
