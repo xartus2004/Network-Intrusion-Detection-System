@@ -1,0 +1,36 @@
+# Byte-compiled files and caches
+__pycache__/
+*.py[cod]
+
+# Data files
+data/*.csv
+
+# Encoders and models
+encoders/
+models/*.pkl
+
+# CatBoost training files
+catboost_info/
+catboost_info/*
+
+# Output CSV files
+output.csv
+
+# Temporary and log files
+*.log
+*.tmp
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Virtual environments (if using one)
+env/
+venv/
+
+# IDE-specific files
+.vscode/
+.idea/
